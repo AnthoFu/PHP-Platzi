@@ -1,4 +1,4 @@
-# Este repositorio contiene mis notas personales, ejercicios y proyectos desarrollados durante el [Curso de React.js](https://platzi.com/cursos/reactjs/) de Platzi.
+# Este repositorio contiene mis notas personales, ejercicios y proyectos desarrollados durante el [Curso de PHP basico](https://platzi.com/cursos/php/) de Platzi.
 
 ### Aquí irá la imagen del certificado (A futuro)
 
